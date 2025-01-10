@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acbergen13
 - 👀 I’m interested in improving my skills as a computer scientist and begin learning about artifical intelligence
-- 🌱 I’m currently learning data structures and algorithms, application development, and statistical computing
+- 🌱 I’m currently learning Software Enginnering, Computer Systems I, and Discrete Structures II
 - 💞️ I’m looking to collaborate on college level projects.
 - 📫 How to reach me: You can reach me through linkedin (Adam Bergen) or Instagram (@acbergen.13)
 - 😄 Pronouns: He/Him
