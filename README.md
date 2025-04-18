@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on college level projects.
 - 📫 How to reach me: You can reach me through linkedin (Adam Bergen) or Instagram (@acbergen.13)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am the current vice president of the JMU Club Trap and Skeet Team.
+- ⚡ Fun fact: I am the current president of the JMU Club Trap and Skeet Team.
 
 <!---
 acbergen13/acbergen13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
