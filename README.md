@@ -4,16 +4,14 @@
 
 ***About Me***
 
-I am a Senior **Computer Science** student at **James Madison University** with previous experience as a 
-*Full Stack Software Engineer Intern* at **Tria Federal** an now I am a *Teaching Assistant* at **James Madison University.**
+I am a Graduate **Data Science** student at **Virginia Tech** and a Part-Time **Junior Software Developer**
+at **TekSynap**.
 - 📚 I’m currently learning ...
-  - *Applied Algorithms*
-  - *Machine Learning*
-  - *Computer Systems*
+  - *Data Science in Practice*
+  - *Agentic AI in Practice*
+  - *Foundations of Data Science*
 - 🚀 I am working on ...
   - **Baseball Analysis** - *application of ML techniques*
-- Outside of the tech world ...
-  - I am the President of JMU Club Trap and Skeet team, I participate in sim-racing, and enjoy watching any college sport (mainly basketball)
 - 📫 Please contact me at: <a href="bergenadam04@gmail.com">bergenadam04@gmail.com</a>
 
 <!-- Links to Important Socials -->
